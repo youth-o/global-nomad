@@ -1,40 +1,80 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎊 SP4 Rolling Project-Team16 🎊
 
-## Getting Started
+> 코드잇 스프린트 : 프론트 엔드 4기 Part4 - 16팀
+>
+> 개발 기간: 2024.5.16 ~ 6.27
 
-First, run the development server:
+URL: https://global-nomad-4-16.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚩프로젝트 목표
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 💻 협업 잘 하는 개발자로 성장
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- `git`과 `GitHub`를 사용하여 팀 프로젝트를 효율적으로 수행하도록 한다.
+- 팀 Repository를 생성하여 공동으로 프로젝트 repository를 관리한다.
+- issues 및 PR rulesets을 설정하고, PR 템플릿을 설정하여 팀 프로젝트 진행 시 혼동할 수 있는 상황을 방지한다.
+- Commit Message 방식, 기술 스택, 효율적인 의사 소통 방식등을 설정하여 원활한 프로젝트 환경을 구성한다.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 🎖️ 최선의 팀 프로젝트 결과물을 완성
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Figma 디자인 시안과 기획 요구사항, API 명세가 정리된 문서를 바탕으로 프로젝트를 수행한다.
+- 요구사항을 이외에도 디자인적으로 개선할 사항이나 기능적으로 추가 할만한 사항들을 파악하고 구현한다.
+- 팀원들이 수행한 PR에 대하여 살펴본 뒤, 문제점 및 개선사항에 대하여 피드백을 진행하고 해당 내용들을 즉각 반영한다.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 🎯 좋은 동료를 얻어가며 함께 성장
 
-## Learn More
+- 팀 미팅 및 코어 타임 설정을 통하여 꾸준한 소통을 진행한다.
+- 역할 수행 중 어려운 사항 발생 시, 팀원들에게 도움을 요청하여 다함께 문제를 해결하여 성장한다.
 
-To learn more about Next.js, take a look at the following resources:
+## 💡프로젝트 소개
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+사람들이 여행을 갈 때, 가서 뭘 할지, 비용은 얼마인지 등 여러 고민을 하게 된다. 바쁜 현대인의 이런 고민을 줄여주기 위해 플랫폼 안에 잘 짜인 체험 상품을 보고 간단하게 예약할 수 있는 서비스
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- `체험 상세` 예약 시간과 인원수를 선택하여 체험을 예약하고 Kakao 지도에서 위치를 확인할 수 있어요.
 
-## Deploy on Vercel
+- `예약하기` 신청부터 완료까지 예약 상태를 최신순으로 확인하고 후기를 작성할 수 있어요.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `내 체험 관리` 카테고리와 예약 시간을 설정해 체험을 등록하고, 등록한 체험을 최신순으로 확인할 수 있어요. 또한 캘린더로 예약 상태를 확인하고 승인 또는 거절을 관리할 수 있어요.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- `알림` 예약 승인/거절 알림을 실시간으로 확인하고, 읽음 처리로 정리할 수 있어요.
+
+- `후기 작성` 별점과 후기를 작성해 체험에 대한 평가를 남길 수 있어요.
+
+### 💡팀원 소개
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/kimtaejin3">
+      <sub><b>[FE] 김태진</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/changmin6362">
+      <sub><b>[FE] 김창민</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dtc03003">
+      <sub><b>[FE] 김동현</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/youth-o">
+      <sub><b>[FE] 이유승</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/SeongWook-Hong">
+      <sub><b>[FE] 홍성욱</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+## 💡 기술 스택
+
+#### Front-End
+
+<div style="margin: ; text-align: left;" "text-align: left;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
+  <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
+ </div>
+
+#### 협업
+
+ <div style="margin: ; text-align: left;" "text-align: left;"> 
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+</div>

@@ -17,7 +17,6 @@ URL: https://global-nomad-4-16.vercel.app/
 
 ### 🎖️ 최선의 팀 프로젝트 결과물을 완성
 
-- Figma 디자인 시안과 기획 요구사항, API 명세가 정리된 문서를 바탕으로 프로젝트를 수행한다.
 - 요구사항을 이외에도 디자인적으로 개선할 사항이나 기능적으로 추가 할만한 사항들을 파악하고 구현한다.
 - 팀원들이 수행한 PR에 대하여 살펴본 뒤, 문제점 및 개선사항에 대하여 피드백을 진행하고 해당 내용들을 즉각 반영한다.
 
@@ -66,8 +65,10 @@ URL: https://global-nomad-4-16.vercel.app/
 <div style="margin: ; text-align: left;" "text-align: left;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
  </div>
@@ -78,3 +79,11 @@ URL: https://global-nomad-4-16.vercel.app/
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
+
+#### 🪄 기타 수행 사항
+
+- 팀 초기 컨벤션 세팅 설정
+  - .eslint.js 초기 설정
+  - .prettierrc 설정
+- 페이지 별 team 작업 issue/trouble shooting/refactoring 사항에 관한 리스트 생성 및 관리
+

@@ -60,7 +60,7 @@ URL: https://global-nomad-4-16.vercel.app/
 
 ## 💡 기술 스택
 
-#### Front-End
+#### Development
 
 <div style="margin: ; text-align: left;" "text-align: left;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -74,12 +74,17 @@ URL: https://global-nomad-4-16.vercel.app/
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
  </div>
 
-#### 협업
+#### Environment
 
  <div style="margin: ; text-align: left;" "text-align: left;"> 
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
+
+#### Config
+   <img src="https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white">
+
 
 #### 🪄 기타 수행 사항
 

@@ -4,7 +4,7 @@
 >
 > 개발 기간: 2024.5.16 ~ 6.27
 
-URL: https://global-nomad-4-16.vercel.app/
+URL: https://global-nomad-16.vercel.app/
 
 
 ## 📄 프로젝트 소개
